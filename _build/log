@@ -1,5 +1,0 @@
-# dune init proj back_me_up
-# OCAMLPARAM: unset
-# Shared cache: disabled
-# Workspace root: /home/horry/Documents/Personal/back_me_up
-# Auto-detected concurrency: 2

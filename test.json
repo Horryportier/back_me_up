@@ -1,0 +1,3 @@
+{
+	 "files": [{ "dir": "bar/", "files": ["test.json"],  "save_destination": "baz/" }]
+}
